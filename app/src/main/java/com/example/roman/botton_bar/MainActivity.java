@@ -55,9 +55,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_dashboard:
                     cargaDash();
                     return true;
-                case R.id.navigation_notifications:
 
-                    return true;
             }
             return false;
         }
